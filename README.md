@@ -1,5 +1,23 @@
-# Welcome to GitHub Desktop!
+# Youth Podcast Blog
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Podcast blog untuk jejaring anak muda gereja dengan embed Spotify dan YouTube.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## Install
+
+```bash
+npm install
+```
+
+## Jalankan
+
+```bash
+npm start
+```
+
+Buka http://localhost:3000
+
+## Admin
+
+- URL: http://localhost:3000/admin
+- Username: admin
+- Password: gembala123
